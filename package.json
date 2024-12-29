@@ -1,0 +1,9 @@
+{
+  "name": "animal-ecosystem",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
